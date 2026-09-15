@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fayas07m-web.github.io/WealthLens-calculators/sitemap.xml
